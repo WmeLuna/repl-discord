@@ -1,1 +1,1 @@
-Discord --no-sandbox
+DiscordCanary --no-sandbox

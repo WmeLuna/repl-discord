@@ -1,6 +1,6 @@
 { pkgs }: {
   deps = with pkgs; [
     busybox
-    discord
+    discord-canary
   ];
 }
